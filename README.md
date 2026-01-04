@@ -9,7 +9,7 @@ This repository contains a demo and architectural overview only.
 ## 🎥 Demo Video
 A short walkthrough demonstrating the system functionality and database-backed reports.
 
-▶️ **Watch the demo (3–4 minutes):**  
+▶️ **Watch the demo (~3 minutes):**  
 [Demo Video Link](https://www.youtube.com/watch?v=K-tss6z30vo)
 
 ---
